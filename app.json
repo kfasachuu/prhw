@@ -1,0 +1,199 @@
+
+{
+	"name": "Prince-Rudh-MD",
+	"description": "Fully Costamisable Bot by, prince-rudh.",
+	"repository": "https://github.com/prince-rudh/Prince-Rudh-MD",
+	"website": "https://github.com/prince-rudh/",
+	"logo": "https://avatars.githubusercontent.com/u/91786052?v=4",
+	"keywords": ["multi-device","Prince-Rudh"],
+	"stack": "container",
+	"env": { 
+    "OWNER": {
+            "description": "Pleas enter Number Of the Owner.",
+            "required": false,
+            "value": "919895809960"
+        }, 
+	"S_PACK": {
+            "description": "Sticker Pack Name (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "₢ᴘʀɪɴᴄᴇ"
+        }, 
+	"WORKTYPE": {
+            "description": "change the Work Type (public or private)",
+            "required": true,
+            "value": "private"
+        },
+	"S_AUTHOR": {
+            "description": "Sticker author name. (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "ʀᴜᴅʜ"
+        }, 
+    "SUDO": {
+            "description": "Add superuser to this bot",
+            "required": false
+        },
+    "NORMAL": {
+            "description": "Use Fancy Templayes Rather Than Normal Messages",
+            "required": false
+        },
+    "ADVER_URL": {
+            "description": "Adplay Target Url",
+            "required": false
+        },
+    "ADVER": {
+            "description": "Adplay Text",
+            "required": false
+        },
+    "ALIVE_IMAGE": {
+            "description": "Set Alive Message Image",
+            "required": false
+        },
+	"ALIVE_MESS": {
+            "description": "Set Alive Message. (leave it if you Wish to use the default)",
+            "required": false
+        }, 
+	"OWNER_MESS": {
+            "description": "Set Owner message. (leave it if you Wish to use the default)",
+            "required": false
+        }, 
+    "LISTICON": {
+            "description": "small logo or icon to appear in menu (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "✩"
+        },
+    "WATERMARK": {
+            "description": "watermark for the bot (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "₢ᴘʀɪɴᴄᴇ ʀᴜᴅʜ"
+        },
+    "BOTNAME": {
+            "description": "Name of The BOT (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "₢ᴘʀɪɴᴄᴇ ʀᴜᴅʜ"
+        },
+    "ICON": {
+            "description": "Icon to appear in menu (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "✩"
+        },
+    "MAIL": {
+            "description": "Premium user number (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "princerudh3@gmail.com"
+        },
+    "YOUTUBE": {
+            "description": "Youtube Channel Link (leave it if you dont have one)",
+            "required": false,
+            "value": "https://youtube.com/c/princerudh"
+        },
+    "GITHUB": {
+            "description": "Your Github Account URL (leave it if you dont have one)",
+            "required": false,
+            "value": "https://github.com/prince-rudh/"
+        },
+    "INSTAGRAM": {
+            "description": "Your Instagram Id URL (leave it if you dont have one)",
+            "required": false,
+            "value": "https://www.instagram.com/princerudh/"
+        },
+    "NAME": {
+            "description": "Owner Name (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "𝗣𝗥𝗜𝗡𝗖𝗘 𝗥𝗨𝗗𝗛"
+        },
+    "FOOTER": {
+            "description": "Footer Text For The Bot (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "𝐏𝐑𝐈𝐍𝐂𝐄 𝐑𝐔𝐃𝐇"
+        },
+    "IMAGE": {
+            "description": "Main Image For The Bot (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "https://github.com/prince-rudh/Prince-Rudh/blob/beta/Rudh.jpg?raw=true"
+        },
+    "IMAGE2": {
+            "description": "Image For The Bot (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "https://github.com/prince-rudh/Prince-Rudh/blob/beta/Rudh.jpg?raw=true"
+        },
+    "BUTTONURL_LINK1": {
+            "description": "URL Button Id/Link (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "https://www.instagram.com/princerudh/"
+        },
+    "BUTTONURL_LINK2": {
+            "description": "Second URL Button Id/Link (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "https://youtube.com/c/princerudh"
+        },
+    "BUTTONURL_OPTION1": {
+            "description": "URL Button Name (leave it if you Wish to use the default:Instagram)",
+            "required": false,
+            "value": "ɪɴꜱᴛᴀɢʀᴀᴍ"
+        },
+    "BUTTONURL_OPTION2": {
+            "description": "Second URL Button Name (leave it if you Wish to use the default:YouTube)",
+            "required": false,
+            "value": "ʏᴏᴜᴛᴜʙᴇ"
+        },
+    "LIST_HEAD": {
+            "description": "Hedding Message For List Menu (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "--"
+        },
+    "LIST_MESSAGE": {
+            "description": "Footer Message Foe List Menu (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "ʟɪꜱᴛ ᴍᴇɴᴜ"
+        },
+    "MENU_HEAD": {
+            "description": "Main Message To Be Shown In Main Menu (shows when use command .menu) (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "--"
+        },
+    "MENU_MESSAGE": {
+            "description": "Main footer Message To Be Shown In Main Menu (shows when use command .menu) (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "ɪɴꜰᴏ ᴍᴇɴᴜ"
+        },
+    "APP_NAME": {
+            "description": "Heroku App name to manage the worker (you canot use restart if u dont fill thsi and HEROKU_API)",
+            "required": true
+        },
+    "HEROKU_API": {
+            "description": "Heroku API key for managing the worker (You canot use restart if u dont fill thsi and APP_NAME)",
+            "required": true
+        },
+    "SESSION_ID": {
+            "description": "Add your Session ID here you got from Your Bot",
+            "required": true
+        },
+     
+    "ZENS_API": {
+            "description": "Get an API key From https://zenzapi.xyz To Use The API Functions.",
+            "required": false,
+            "value": "sanzychan01"
+        }
+	},
+	
+	"buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ],
+   "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
