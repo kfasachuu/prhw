@@ -1,6 +1,6 @@
 FROM node:lts-buster
 
-RUN git clone https://github.com/princerudh/prince-rudh-md /root/AlienAlfa
+RUN git clone https://github.com/kfasachu/prince-rudh-md /root/AlienAlfa
 
 WORKDIR /root/AlienAlfa/
 
