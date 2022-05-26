@@ -1,8 +1,8 @@
 FROM node:lts-buster
 
-RUN git clone https://github.com/princerudh/prince-rudh-md /root/PrinceRudhMD
+RUN git clone https://github.com/princerudh/prince-rudh-md /root/AlienAlfa
 
-WORKDIR /root/PrinceRudhMD/
+WORKDIR /root/AlienAlfa/
 
 RUN apt-get update && \
   apt-get install -y \
