@@ -59,7 +59,7 @@
     "LISTICON": {
             "description": "small logo or icon to appear in menu (leave it if you Wish to use the default)",
             "required": false,
-            "value": "✩"
+            "value": "࿊"
         },
     "WATERMARK": {
             "description": "watermark for the bot (leave it if you Wish to use the default)",
@@ -74,7 +74,7 @@
     "ICON": {
             "description": "Icon to appear in menu (leave it if you Wish to use the default)",
             "required": false,
-            "value": "✩"
+            "value": "𒀭"
         },
     "MAIL": {
             "description": "Premium user number (leave it if you Wish to use the default)",
