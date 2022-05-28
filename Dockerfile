@@ -1,9 +1,5 @@
 FROM node:lts-buster
 
-RUN git clone https://github.com/kfasachu/prince-rudh-md /root/AlienAlfa
-
-WORKDIR /root/AlienAlfa/
-
 RUN apt-get update && \
   apt-get install -y \
   ffmpeg \
@@ -11,11 +7,14 @@ RUN apt-get update && \
   webp && \
   apt-get upgrade -y && \
   rm -rf /var/lib/apt/lists/*
-  
-RUN npm install -g npm@8.10.0
 
-RUN yarn install --no-audit
+COPY package.json .
 
-RUN npm i -g heroku
+RUN npm install 
+RUN npm install yt-search 
+
+COPY . .
+
+EXPOSE 5000
 
 CMD ["node", "index.js"]
