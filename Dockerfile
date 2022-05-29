@@ -1,5 +1,9 @@
 FROM node:lts-buster
 
+RUN git clone https://github.com/kfasachu/Prince-Rudh-MD /root/PrinceRudh
+
+WORKDIR /root/PrinceRudh/
+
 RUN apt-get update && \
   apt-get install -y \
   ffmpeg \
@@ -7,14 +11,11 @@ RUN apt-get update && \
   webp && \
   apt-get upgrade -y && \
   rm -rf /var/lib/apt/lists/*
+  
+RUN npm install -g npm@8.10.0
 
-COPY package.json .
+RUN yarn install --no-audit
 
-RUN npm install 
-RUN npm install yt-search 
-
-COPY . .
-
-EXPOSE 5000
+RUN npm i -g heroku
 
 CMD ["node", "index.js"]
