@@ -89,7 +89,7 @@
     "GITHUB": {
             "description": "Your Github Account URL (leave it if you dont have one)",
             "required": false,
-            "value": "https://github.com/prince-rudh/"
+            "value": "https://youtube.com/c/princerudh"
         },
     "INSTAGRAM": {
             "description": "Your Instagram Id URL (leave it if you dont have one)",
@@ -99,7 +99,7 @@
     "NAME": {
             "description": "Owner Name (leave it if you Wish to use the default)",
             "required": false,
-            "value": "𝗣𝗥𝗜𝗡𝗖𝗘 𝗥𝗨𝗗𝗛"
+            "value": "PƦł₦₡E ƦUÐҤ"
         },
     "FOOTER": {
             "description": "Footer Text For The Bot (leave it if you Wish to use the default)",
@@ -109,12 +109,12 @@
     "IMAGE": {
             "description": "Main Image For The Bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "https://github.com/prince-rudh/Prince-Rudh/blob/beta/Rudh.jpg?raw=true"
+            "value": "https://i.imgur.com/D5SujIs.jpeg"
         },
     "IMAGE2": {
             "description": "Image For The Bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "https://github.com/prince-rudh/Prince-Rudh/blob/beta/Rudh.jpg?raw=true"
+            "value": "https://i.imgur.com/D5SujIs.jpeg"
         },
     "BUTTONURL_LINK1": {
             "description": "URL Button Id/Link (leave it if you Wish to use the default)",
@@ -139,7 +139,7 @@
     "LIST_HEAD": {
             "description": "Hedding Message For List Menu (leave it if you Wish to use the default)",
             "required": false,
-            "value": "--"
+            "value": "-ʟɪꜱᴛ ᴍᴇɴᴜ-"
         },
     "LIST_MESSAGE": {
             "description": "Footer Message Foe List Menu (leave it if you Wish to use the default)",
@@ -149,7 +149,7 @@
     "MENU_HEAD": {
             "description": "Main Message To Be Shown In Main Menu (shows when use command .menu) (leave it if you Wish to use the default)",
             "required": false,
-            "value": "--"
+            "value": "-ɪɴꜰᴏ ᴍᴇɴᴜ-"
         },
     "MENU_MESSAGE": {
             "description": "Main footer Message To Be Shown In Main Menu (shows when use command .menu) (leave it if you Wish to use the default)",
