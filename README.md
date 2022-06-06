@@ -2,7 +2,7 @@
 
 # `Use This Button To Deploy`
 
-<a href="https://heroku.com/deploy?template=https://github.com/kfasachu/prhmd"><img title="PRINCE RUDH" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/kfasachu/prhw"><img title="PRINCE RUDH" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
     
 
   
