@@ -139,7 +139,7 @@
     "LIST_HEAD": {
             "description": "Hedding Message For List Menu (leave it if you Wish to use the default)",
             "required": false,
-            "value": "-ʟɪꜱᴛ ᴍᴇɴᴜ-"
+            "value": "ʜʏ ᴅᴜᴅᴇ....👋🏻\n\n         ☆ *ʙᴏᴛ ɪɴғᴏ* ☆\n\n࿈ ɴᴀᴍᴇ  : ᴘʀɪɴᴄᴇ ʀᴜᴅʜ\n࿈ sᴛᴀᴛᴇs : ᴘᴜʙʟɪᴄ\n࿈ \n࿈ ᴘᴇʀғɪx : [ . ]\n\n         ☆ *ᴄʀᴇᴀᴛᴇʀ* ☆\n\n👨🏻‍💻 *ᴘʀɪɴᴄᴇ ʀᴜᴅʜ* \n\n          ☆ *ᴛʜᴀɴᴋ ʏᴏᴜ* ☆\n\n࿈ ᴄʟɪᴄᴋ ʟɪꜱᴛ ᴀɴᴅ ᴇɴᴊᴏʏ ᴛʜᴇ ʙᴏᴛ"
         },
     "LIST_MESSAGE": {
             "description": "Footer Message Foe List Menu (leave it if you Wish to use the default)",
@@ -149,7 +149,7 @@
     "MENU_HEAD": {
             "description": "Main Message To Be Shown In Main Menu (shows when use command .menu) (leave it if you Wish to use the default)",
             "required": false,
-            "value": "-ɪɴꜰᴏ ᴍᴇɴᴜ-"
+            "value": "ʜʏ ᴅᴜᴅᴇ....👋🏻\n\n         ☆ *ʙᴏᴛ ɪɴғᴏ* ☆\n\n࿈ ɴᴀᴍᴇ  : ᴘʀɪɴᴄᴇ ʀᴜᴅʜ\n࿈ sᴛᴀᴛᴇs : ᴘᴜʙʟɪᴄ\n࿈ \n࿈ ᴘᴇʀғɪx : [ . ]\n\n         ☆ *ᴄʀᴇᴀᴛᴇʀ* ☆\n\n👨🏻‍💻 *ᴘʀɪɴᴄᴇ ʀᴜᴅʜ* \n\n          ☆ *ᴛʜᴀɴᴋ ʏᴏᴜ* ☆\n\n࿈ ᴄʟɪᴄᴋ ᴍᴇɴᴜ ᴀɴᴅ ᴇɴᴊᴏʏ ᴛʜᴇ ʙᴏᴛ"
         },
     "MENU_MESSAGE": {
             "description": "Main footer Message To Be Shown In Main Menu (shows when use command .menu) (leave it if you Wish to use the default)",
