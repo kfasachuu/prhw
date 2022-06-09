@@ -50,7 +50,8 @@
         },
 	"ALIVE_MESS": {
             "description": "Set Alive Message. (leave it if you Wish to use the default)",
-            "required": false
+            "required": false,
+            "value": "${greetings} ${pushname} \n\nꜱᴘᴇᴇᴅ   : ${latensi.toFixed(4)} ᴍꜱ\nʀᴜɴᴛɪᴍᴇ : ${runtime(process.uptime())}\n\n"
         }, 
 	"OWNER_MESS": {
             "description": "Set Owner message. (leave it if you Wish to use the default)",
