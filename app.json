@@ -51,7 +51,7 @@
 	"ALIVE_MESS": {
             "description": "Set Alive Message. (leave it if you Wish to use the default)",
             "required": false,
-            "value": "${greetings} ${pushname} \n\nꜱᴘᴇᴇᴅ   : ${latensi.toFixed(4)} ᴍꜱ\nʀᴜɴᴛɪᴍᴇ : ${runtime(process.uptime())}\n\n"
+            "value": "┏╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍┓ \n      ☆ ~ɪᴛsᴍᴇ ʀᴜᴅʜʀᴀ~ ☆ \n ┗╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍┛ \n ┏╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍┓ \n ┣⍟ \n ┣⍟ *ᴅᴇᴠᴇʟᴏᴘᴇʀ* : ᴘʀɪɴᴄᴇ ʀᴜᴅʜ \n ┣⍟ \n ┣⍟ *ɴᴜᴍʙᴇʀ* : wa.me/919895809960 \n ┣⍟ \n ┣⍟ *ʙᴏᴛ ɢʀᴏᴜᴘ* https://chat.whatsapp.com/Hgg2xYpPhTHLk77Jcisdq6 \n ┣⍟ \n ┣⍟ *ɪɴsᴛᴀ* :https://instagram.com/princerudh \n ┣⍟ \n ┣⍟ *ʏᴛ* :https://youtube.com/princerudh \n ┣⍟ \n ┣⍟ *ʙᴏᴛ ᴠɪᴅᴇᴏ* :https://youtu.be/zUGBjETc7PA \n ┣⍟ \n ┣⍟ *ɢɪᴛ* :https://github.com/prince-rudh/Rudhra \n ┣⍟ \n ┣⍟ *ɢɪᴛ* : https://github.com/prince-rudh/Rudhra2.0  \n ┣⍟ \n ┣⍟     ▎▍▌▌▉▏▎▌▉▐▏▌▎\n ┣⍟     ▎▍▌▌▉▏▎▌▉▐▏▌▎ \n ┣⍟         ₢ᴘʀɪɴᴄᴇ ʀᴜᴅʜ \n ┣⍟ \n ┗╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍┛ \n ⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟ \n ┏╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍┓ \n ┣⍟        ◩ *ʀᴜᴅʜʀᴀ* ◪ \n ┗╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍┛"
         }, 
 	"OWNER_MESS": {
             "description": "Set Owner message. (leave it if you Wish to use the default)",
