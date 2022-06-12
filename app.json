@@ -16,12 +16,17 @@
 	"S_PACK": {
             "description": "Sticker Pack Name (leave it if you Wish to use the default)",
             "required": false,
-            "value": "₢ᴘʀɪɴᴄᴇ ʀᴜᴅʜ"
+            "value": "₢ᴘʀɪɴᴄᴇ"
         }, 
 	"WORKTYPE": {
             "description": "change the Work Type (public or private)",
             "required": true,
             "value": "private"
+        },
+	"S_AUTHOR": {
+            "description": "Sticker author name. (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "ʀᴜᴅʜ"
         }, 
     "SUDO": {
             "description": "Add superuser to this bot",
@@ -56,6 +61,11 @@
             "required": false,
             "value": "࿊"
         },
+    "WATERMARK": {
+            "description": "watermark for the bot (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "₢ᴘʀɪɴᴄᴇ ʀᴜᴅʜ"
+        },
     "BOTNAME": {
             "description": "Name of The BOT (leave it if you Wish to use the default)",
             "required": false,
@@ -71,10 +81,25 @@
             "required": false,
             "value": "princerudh3@gmail.com"
         },
+    "YOUTUBE": {
+            "description": "Youtube Channel Link (leave it if you dont have one)",
+            "required": false,
+            "value": "https://youtube.com/c/princerudh"
+        },
+    "GITHUB": {
+            "description": "Your Github Account URL (leave it if you dont have one)",
+            "required": false,
+            "value": "https://youtube.com/c/princerudh"
+        },
     "INSTAGRAM": {
             "description": "Your Instagram Id URL (leave it if you dont have one)",
             "required": false,
             "value": "https://www.instagram.com/princerudh/"
+        },
+    "NAME": {
+            "description": "Owner Name (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "PƦł₦₡E ƦUÐҤ"
         },
     "FOOTER": {
             "description": "Footer Text For The Bot (leave it if you Wish to use the default)",
@@ -90,6 +115,26 @@
             "description": "Image For The Bot (leave it if you Wish to use the default)",
             "required": false,
             "value": "https://i.imgur.com/D5SujIs.jpeg"
+        },
+    "BUTTONURL_LINK1": {
+            "description": "URL Button Id/Link (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "https://www.instagram.com/princerudh/"
+        },
+    "BUTTONURL_LINK2": {
+            "description": "Second URL Button Id/Link (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "https://youtube.com/c/princerudh"
+        },
+    "BUTTONURL_OPTION1": {
+            "description": "URL Button Name (leave it if you Wish to use the default:Instagram)",
+            "required": false,
+            "value": "ɪɴꜱᴛᴀɢʀᴀᴍ"
+        },
+    "BUTTONURL_OPTION2": {
+            "description": "Second URL Button Name (leave it if you Wish to use the default:YouTube)",
+            "required": false,
+            "value": "ʏᴏᴜᴛᴜʙᴇ"
         },
     "LIST_HEAD": {
             "description": "Hedding Message For List Menu (leave it if you Wish to use the default)",
