@@ -65,10 +65,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prince-rudh/Prince-Rudh-MD.git"
+    "url": "git+https://github.com/princerudh-prh/Prince-Rudh-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/prince-rudh/Prince-Rudh-MD/issues"
+    "url": "https://github.com/princerudh-prh/Prince-Rudh-MD/issues"
   },
-  "homepage": "https://github.com/prince-rudh/Prince-Rudh-MD#readme"
+  "homepage": "https://github.com/princerudh-prh/Prince-Rudh-MD#readme"
 }
