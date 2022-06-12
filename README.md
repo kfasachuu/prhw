@@ -1,5 +1,5 @@
 <div align="center">
-  <img border-radius: 15px src="https://bit.ly/3MC0GXH" width="300" height="300"/>
+  <img border-radius: 15px src="https://bit.ly/3xIziTB" width="300" height="300"/>
     <div>
 <br>
 <a href="https://github.com/princerudh-prh/prince-rudh-md/fork"><img align="center" src="https://bit.ly/prhfork" alt="Fork and deploy" height="112" width="300" /></a>
