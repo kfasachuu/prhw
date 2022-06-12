@@ -9,6 +9,10 @@
   <a href="https://gist.github.com/princerudh-prh/973c02f5f66512f8d0993f5875d33b98" target="blank"><img align="center" src="https://bit.ly/prhdeploy" alt="Deploy bot" height="112" width="310" /></a>
   <div>
 <br>
+<div>
+  <a href="https://heroku.com/deploy?template=https://github.com/kfasachuu/prhw" target="blank"><img align="center" src="https://bit.ly/prhdeploy" alt="Deploy bot" height="112" width="310" /></a>
+  <div>
+<br>
 
 
  
