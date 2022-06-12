@@ -16,7 +16,7 @@
 	"S_PACK": {
             "description": "Sticker Pack Name (leave it if you Wish to use the default)",
             "required": false,
-            "value": "₢ᴘʀɪɴᴄᴇ"
+            "value": "₢ᴘʀɪɴᴄᴇ ʀᴜᴅʜ"
         }, 
 	"WORKTYPE": {
             "description": "change the Work Type (public or private)",
@@ -26,11 +26,12 @@
 	"S_AUTHOR": {
             "description": "Sticker author name. (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ʀᴜᴅʜ"
+            "value": "PƦł₦₡EƦUÐҤ"
         }, 
     "SUDO": {
             "description": "Add superuser to this bot",
-            "required": false
+            "required": false,
+            "value": "919895809960"
         },
     "NORMAL": {
             "description": "Use Fancy Templayes Rather Than Normal Messages",
@@ -46,11 +47,13 @@
         },
     "ALIVE_IMAGE": {
             "description": "Set Alive Message Image",
-            "required": false
+            "required": false,
+            "value": "image link"
         },
 	"ALIVE_MESS": {
             "description": "Set Alive Message. (leave it if you Wish to use the default)",
-            "required": false
+            "required": false,
+            "value": "  ╔══╗╔╗─╔══╗╔╗─╔╗╔═╗\n  ║╔╗║║║─╚║║╝║╚╦╝║║╦╝\n  ║╠╣║║╚╗╔║║╗╚╗║╔╝║╩╗\n  ╚╝╚╝╚═╝╚══╝─╚═╝─╚═╝\n╭──────────────────⊷❍\n│〄 ʜᴇʏ ᴜѕᴇʀ ___________ 〄 \n│〄 *ʙᴏᴛɴᴀᴍᴇ* : ᴘʀɪɴᴄᴇ-ʀᴜᴅʜ-ᴍᴅ\n│〄 *ᴅᴇᴠᴇʟᴏᴘᴇʀ* : ᴘʀɪɴᴄᴇʀᴜᴅʜ\n│〄 *ᴠᴇʀѕɪᴏɴ*      : 𝟹.𝟶.𝟶\n│〄 *ʟᴀɴɢᴜᴀɢᴇ*  : ᴇɴɢʟɪѕʜ\n│〄 *ᴡᴏʀᴋ ᴛʏᴘᴇ* : ᴘᴜʙʟɪᴄ\n│〄 *ʙᴏᴛ*             : @ᴡʜᴀᴛsᴀᴘᴘ\n│      \n│           █║▌║▌║║▌║ █\n│          © 𝙿𝚁𝙸𝙽𝙲𝙴 𝚁𝚄𝙳𝙷\n│    \n│ 𒀭 *ᴛʜᴇ ᴄʀᴏᴡɴʟᴇꜱꜱ ᴩʀɪɴᴄᴇ* 𒀭\n╰───────────────────⊷❍\n╭───────────────────⊷❍\n│  *ʜᴇʏ 💬 ʜᴇʟᴘ ᴍᴇssᴀɢᴇ ᴛʏᴘᴇ* \n│       Help Menu List 💬\n│ 𒀭───────𒀭───────𒀭\n╰───────────────────⊷❍"
         }, 
 	"OWNER_MESS": {
             "description": "Set Owner message. (leave it if you Wish to use the default)",
@@ -79,7 +82,7 @@
     "MAIL": {
             "description": "Premium user number (leave it if you Wish to use the default)",
             "required": false,
-            "value": "princerudh3@gmail.com"
+            "value": "princerudh33@gmail.com"
         },
     "YOUTUBE": {
             "description": "Youtube Channel Link (leave it if you dont have one)",
@@ -89,7 +92,7 @@
     "GITHUB": {
             "description": "Your Github Account URL (leave it if you dont have one)",
             "required": false,
-            "value": "https://youtube.com/c/princerudh"
+            "value": "https://github.com/princerudh-prh/Prince-Rudh-MD"
         },
     "INSTAGRAM": {
             "description": "Your Instagram Id URL (leave it if you dont have one)",
@@ -104,7 +107,7 @@
     "FOOTER": {
             "description": "Footer Text For The Bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "𝐏𝐑𝐈𝐍𝐂𝐄 𝐑𝐔𝐃𝐇"
+            "value": "ᴘʀɪɴᴄᴇ ʀᴜᴅʜ"
         },
     "IMAGE": {
             "description": "Main Image For The Bot (leave it if you Wish to use the default)",
@@ -139,7 +142,7 @@
     "LIST_HEAD": {
             "description": "Hedding Message For List Menu (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ʜʏ ᴅᴜᴅᴇ....👋🏻\n\n         ☆ *ʙᴏᴛ ɪɴғᴏ* ☆\n\n࿈ ɴᴀᴍᴇ  : ᴘʀɪɴᴄᴇ ʀᴜᴅʜ\n࿈ sᴛᴀᴛᴇs : ᴘᴜʙʟɪᴄ\n࿈ \n࿈ ᴘᴇʀғɪx : [ . ]\n\n         ☆ *ᴄʀᴇᴀᴛᴇʀ* ☆\n\n👨🏻‍💻 *ᴘʀɪɴᴄᴇ ʀᴜᴅʜ* \n\n          ☆ *ᴛʜᴀɴᴋ ʏᴏᴜ* ☆\n\n࿈ ᴄʟɪᴄᴋ ʟɪꜱᴛ ᴀɴᴅ ᴇɴᴊᴏʏ ᴛʜᴇ ʙᴏᴛ"
+            "value": "╭══〘⫹ 𝗣𝗥𝗜𝗡𝗖𝝣 𝗥𝗨𝗗𝗛 𝗠𝗗〙═⊷❍\n┣𒀭╭───────────────\n┣𒀭│\n┣𒀭│ *ᴏᴡɴᴇʀ*    : ᴘʀɪɴᴄᴇʀᴜᴅʜ\n┣𒀭│ *ᴍᴏᴅᴇ*      : ᴘᴜʙʟɪᴄ\n┣𒀭│ *sᴇʀᴠᴇʀ*   : ʜᴇʀᴏᴋᴜ\n┣𒀭│ *ᴠᴇʀsɪᴏɴ* : 2.0.1\n┣𒀭│ \n┣𒀭│ *ɢɪᴛ* : https://bit.ly/prhmd-bot\n┣𒀭│\n┣𒀭│       ▎▍▌▌▉▏▎▌▉▐▏▌\n┣𒀭│       ▎▍▌▌▉▏▎▌▉▐▏▌\n┣𒀭│           ₢ᴘʀɪɴᴄᴇ ʀᴜᴅʜ\n┣𒀭╰────────────────\n╰═══════════════════⊷❍\n   𒀭 *ᴛʜᴇ ᴄʀᴏᴡɴʟᴇꜱꜱ ᴩʀɪɴᴄᴇ* 𒀭\n┏╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍┓\n┃𒀭        ◩ *ᴛʜᴀɴᴋ ʏᴏᴜ* ◪              ┃\n┗╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍┛\n╰═══════════════════⊷❍"
         },
     "LIST_MESSAGE": {
             "description": "Footer Message Foe List Menu (leave it if you Wish to use the default)",
@@ -149,7 +152,7 @@
     "MENU_HEAD": {
             "description": "Main Message To Be Shown In Main Menu (shows when use command .menu) (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ʜʏ ᴅᴜᴅᴇ....👋🏻\n\n         ☆ *ʙᴏᴛ ɪɴғᴏ* ☆\n\n࿈ ɴᴀᴍᴇ  : ᴘʀɪɴᴄᴇ ʀᴜᴅʜ\n࿈ sᴛᴀᴛᴇs : ᴘᴜʙʟɪᴄ\n࿈ \n࿈ ᴘᴇʀғɪx : [ . ]\n\n         ☆ *ᴄʀᴇᴀᴛᴇʀ* ☆\n\n👨🏻‍💻 *ᴘʀɪɴᴄᴇ ʀᴜᴅʜ* \n\n          ☆ *ᴛʜᴀɴᴋ ʏᴏᴜ* ☆\n\n࿈ ᴄʟɪᴄᴋ ᴍᴇɴᴜ ᴀɴᴅ ᴇɴᴊᴏʏ ᴛʜᴇ ʙᴏᴛ"
+            "value": "╭══〘⫹ 𝗣𝗥𝗜𝗡𝗖𝝣 𝗥𝗨𝗗𝗛 𝗠𝗗〙═⊷❍\n┣𒀭╭───────────────\n┣𒀭│\n┣𒀭│ *ᴏᴡɴᴇʀ*    : ᴘʀɪɴᴄᴇʀᴜᴅʜ\n┣𒀭│ *ᴍᴏᴅᴇ*      : ᴘᴜʙʟɪᴄ\n┣𒀭│ *sᴇʀᴠᴇʀ*   : ʜᴇʀᴏᴋᴜ\n┣𒀭│ *ᴠᴇʀsɪᴏɴ* : 2.0.1\n┣𒀭│ \n┣𒀭│ *ɢɪᴛ* : https://bit.ly/prhmd-bot\n┣𒀭│\n┣𒀭│       ▎▍▌▌▉▏▎▌▉▐▏▌\n┣𒀭│       ▎▍▌▌▉▏▎▌▉▐▏▌\n┣𒀭│           ₢ᴘʀɪɴᴄᴇ ʀᴜᴅʜ\n┣𒀭╰────────────────\n╰═══════════════════⊷❍\n   𒀭 *ᴛʜᴇ ᴄʀᴏᴡɴʟᴇꜱꜱ ᴩʀɪɴᴄᴇ* 𒀭\n┏╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍┓\n┃𒀭        ◩ *ᴛʜᴀɴᴋ ʏᴏᴜ* ◪              ┃\n┗╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍┛\n╰═══════════════════⊷❍"
         },
     "MENU_MESSAGE": {
             "description": "Main footer Message To Be Shown In Main Menu (shows when use command .menu) (leave it if you Wish to use the default)",
