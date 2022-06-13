@@ -1,9 +1,9 @@
 
 {
 	"name": "Prince-Rudh-MD",
-	"description": "Fully Costamisable Bot by, prince-rudh.",
-	"repository": "https://github.com/prince-rudh/Prince-Rudh-MD",
-	"website": "https://github.com/prince-rudh/",
+	"description": "Fully Costamisable Bot by prince-rudh.",
+	"repository": "https://github.com/princerudh-prh/Prince-Rudh-MD",
+	"website": "https://github.com/princerudh-prh/",
 	"logo": "https://avatars.githubusercontent.com/u/91786052?v=4",
 	"keywords": ["multi-device","Prince-Rudh"],
 	"stack": "container",
@@ -48,7 +48,7 @@
     "ALIVE_IMAGE": {
             "description": "Set Alive Message Image",
             "required": false,
-            "value": "image link"
+            "value": "https://i.imgur.com/D5SujIs.jpeg"
         },
 	"ALIVE_MESS": {
             "description": "Set Alive Message. (leave it if you Wish to use the default)",
@@ -102,7 +102,7 @@
     "NAME": {
             "description": "Owner Name (leave it if you Wish to use the default)",
             "required": false,
-            "value": "PƦł₦₡E ƦUÐҤ"
+            "value": "PƦł₦₡EƦUÐҤ"
         },
     "FOOTER": {
             "description": "Footer Text For The Bot (leave it if you Wish to use the default)",
