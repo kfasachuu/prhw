@@ -64,11 +64,6 @@
             "required": false,
             "value": "࿊"
         },
-    "WATERMARK": {
-            "description": "watermark for the bot (leave it if you Wish to use the default)",
-            "required": false,
-            "value": "₢ᴘʀɪɴᴄᴇ ʀᴜᴅʜ"
-        },
     "BOTNAME": {
             "description": "Name of The BOT (leave it if you Wish to use the default)",
             "required": false,
